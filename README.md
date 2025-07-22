@@ -55,4 +55,7 @@ Mock datasets are created using `generate_mock_data.py`:
 ## Insights & Reporting
 See `insights/insights_summary.pdf` for a full analysis of campaign results, top performers, and recommendations.
 
+## 📄 Insights Summary
+
+[Download the full Influencer Insights PDF](insights/Influencer.pdf)
 ---
