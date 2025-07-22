@@ -1,0 +1,16 @@
+influencer_id,basis,rate,orders,total_payout
+inf_001,post,4000,0,16000
+inf_002,post,5000,0,20000
+inf_003,order,250,18,4500
+inf_004,post,5000,0,25000
+inf_005,order,150,24,3600
+inf_006,post,5000,0,25000
+inf_007,post,3000,0,12000
+inf_008,post,6000,0,24000
+inf_009,order,250,22,5500
+inf_010,post,3000,0,12000
+inf_011,post,3000,0,9000
+inf_012,order,250,37,9250
+inf_013,order,100,28,2800
+inf_014,post,4000,0,16000
+inf_015,post,6000,0,18000
